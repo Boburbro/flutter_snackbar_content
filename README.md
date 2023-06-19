@@ -16,12 +16,12 @@ dependencies:
   flutter:
       sdk: flutter
 
-  awesome_snackbar_content: <latest-package>
+  flutter_snackbar_content: <latest-package>
 ```
 
 Then import it in your flutter project:
 ```
-import 'package:awesome_snackbar_content/awesome_snackbar_content.dart';
+import 'package:flutter_snackbar_content/flutter_snackbar_content.dart';
 ```
 
 ## 👀 SnackBar Looks
@@ -55,7 +55,7 @@ Below are the looks of various types in package used as Snackbar
 <img src="https://raw.githubusercontent.com/DNQuyTD/save_personal_images/main/Screenshot_20230617-105733~2.png" height='600px' />
 
 ### 💻 Example
-Below is a basic example usage of the `awesome_snackbar_content`
+Below is a basic example usage of the `flutter_snackbar_content`
 
 ```dart
 import 'package:flutter/material.dart';

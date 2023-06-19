@@ -51,7 +51,7 @@ class MyApp extends StatelessWidget {
                         'This is an example error message that will be shown in the body of materialBanner!',
 
                     /// change contentType to ContentType.success, ContentType.warning or ContentType.help for variants
-                    contentType: ContentType.success,
+                    contentType: ContentType.warning,
                     // to configure for material banner
                     inMaterialBanner: true,
                   ),
